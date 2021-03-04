@@ -1,0 +1,35 @@
+ .Header__root__e6WbA {
+        display: flex;
+width: 100%;
+height: auto;
+position: relative;
+justify-content: space-between;
+min-width: 0;
+      } 
+ .Header__img__gLscZ {
+        position: absolute;
+object-fit: cover;
+width: 100px;
+height: 100px;
+left: -121px;
+top: 4px;
+align-self: stretch;
+flex-shrink: 0;
+      } 
+ .Header__img__global_desktop__gLscZxl8Az {
+        left: -61px;
+top: 37px;
+      } 
+ .Header__img__global_lahjoitaLogoAndMenuPositioning_unnamedVariant__gLscZ4X3Cv {
+        left: 6px;
+top: 4px;
+      } 
+ .Header__link___0OEig {
+        position: absolute;
+left: -6px;
+top: 40px;
+      } 
+ .Header__link__global_lahjoitaLogoAndMenuPositioning_unnamedVariant___0OEig4X3Cv {
+        left: 123px;
+top: 40px;
+      } 

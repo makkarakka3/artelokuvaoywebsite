@@ -1,0 +1,35 @@
+ .LinkButton__root__uLriv {
+        display: inline-flex;
+width: auto;
+height: auto;
+position: relative;
+border-radius: 5px;
+padding: 10px 20px;
+      } 
+ .LinkButton__root__type_solidBlue__uLriVlv2As {
+        background: rgb(24,119,242);
+      } 
+ .LinkButton__root__type_solidBlack__uLriv26Ii4 {
+        background: rgb(24,25,26);
+      } 
+ .LinkButton__root__type_outlineBlue__uLrivWw46Y {
+        border: 1px solid rgb(24,119,242) /* plasmic-token: p-fCTrfjtL4 */;
+      } 
+ .LinkButton__root__type_small__uLriVugYuf {
+        padding: 0px;
+      } 
+ .LinkButton__root__type_solidBlue__uLriVlv2As:hover {
+        background: rgb(23,99,207);
+      } 
+ .LinkButton__root__type_solidBlack__uLriv26Ii4:hover {
+        background: rgb(50,52,54);
+      } 
+ .LinkButton__slotText__type_solidBlue__iScl2Lv2As {
+        color: rgb(255,255,255) /* plasmic-token: iXjp5bmWDejQr */;
+      } 
+ .LinkButton__slotText__type_solidBlack__iScl226Ii4 {
+        color: rgb(255,255,255) /* plasmic-token: iXjp5bmWDejQr */;
+      } 
+ .LinkButton__slotText__type_outlineBlue__iScl2Ww46Y {
+        color: rgb(24,119,242) /* plasmic-token: p-fCTrfjtL4 */;
+      } 

@@ -1,0 +1,20 @@
+ .IconLink__root__txDj1 {
+        display: flex;
+width: 32px;
+height: 32px;
+position: relative;
+      } 
+ .IconLink__box__f5Upj {
+        display: flex;
+position: relative;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+width: 100%;
+height: 100%;
+box-shadow: 1px 2px 2px 1px rgb(234,234,234) /* plasmic-token: d9KvJaCphFIrk */;
+min-width: 0;
+min-height: 0;
+border-radius: 16px;
+background: rgb(255,255,255);
+      } 

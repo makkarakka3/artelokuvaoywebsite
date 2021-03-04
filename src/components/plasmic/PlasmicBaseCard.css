@@ -1,0 +1,83 @@
+ .BaseCard__root___5YYru {
+        display: flex;
+width: 100%;
+height: auto;
+position: relative;
+flex-direction: column;
+box-shadow: 0px 20px 25px -5px rgba(0,0,0,0.12), 0px 10px 10px -5px rgba(0,0,0,0.02);
+min-width: 0;
+border-radius: 5px;
+padding: 20px;
+background: rgb(255,255,255);
+      } 
+ .BaseCard__root___5YYru > .__wab_flex-container {
+        flex-direction: column;
+justify-content: center;
+align-items: stretch;
+margin-top: calc(0px - 10px);
+height: calc(100% + 10px);
+      } 
+ .BaseCard__root___5YYru > .__wab_flex-container > *, .BaseCard__root___5YYru > .__wab_flex-container > .__wab_slot > * {
+        margin-top: 10px;
+      } 
+ .BaseCard__root___long___5YYruixaEi {
+        height: auto;
+width: 100%;
+display: flex;
+flex-direction: row;
+min-width: 0;
+      } 
+ .BaseCard__root___long___5YYruixaEi > .__wab_flex-container {
+        flex-direction: row;
+justify-content: space-between;
+margin-left: calc(0px - 10px);
+width: calc(100% + 10px);
+margin-top: calc(0px - 0px);
+height: calc(100% + 0px);
+      } 
+ .BaseCard__root___long___5YYruixaEi > .__wab_flex-container > *, .BaseCard__root___long___5YYruixaEi > .__wab_flex-container > .__wab_slot > * {
+        margin-left: 10px;
+margin-top: 0px;
+      } 
+ .BaseCard__box__cqPjn {
+        display: flex;
+position: relative;
+flex-direction: column;
+align-items: stretch;
+justify-content: flex-start;
+      } 
+ .BaseCard__box___long__cqPjNixaEi {
+        align-items: flex-start;
+      } 
+ .BaseCard__slotChildren__igSar {
+        text-align: center;
+      } 
+ .BaseCard__slotChildren___long__igSarixaEi {
+        text-align: left;
+      } 
+ .BaseCard__box__ca6Jl {
+        display: flex;
+position: relative;
+flex-direction: column;
+align-items: stretch;
+justify-content: flex-start;
+      } 
+ .BaseCard__box___long__ca6JlixaEi {
+        width: 32px;
+height: 32px;
+overflow: hidden;
+justify-content: center;
+align-items: center;
+box-shadow: 1px 1px 1px 0px rgb(234,234,234) /* plasmic-token: d9KvJaCphFIrk */;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgb(255,255,255);
+border: 1px solid rgb(234,234,234) /* plasmic-token: d9KvJaCphFIrk */;
+      } 
+ .BaseCard__svg___4GFrm {
+        width: 16px;
+height: 16px;
+position: relative;
+object-fit: cover;
+flex-shrink: 0;
+      } 
